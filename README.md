@@ -37,8 +37,10 @@ Este projeto trata-se de uma página de formulário de cadastro e de login. Tend
 - [x] Cadastro de usuário
 - [x] Authenticação de usuário
 - [x] Validação de Inputs
-
-
+- [x] Listagem das transações (entradas e saídas)
+- [x] Cálculo das entradas, saídas e total
+- [x] Campo de busca
+- [x] Modal para cadastro de nova transação
 
 ---
 # 🚀 Autor
