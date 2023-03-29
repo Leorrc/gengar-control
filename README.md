@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <h1> img em breve </h1>
 </p>
 
 ## 🚀 Tecnologias
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript/Typescript
 - [Node](https://nodejs.org/)
 - [ReactJS](https://reactjs.org/)
-- [Styled-Components](https://styled-components.com/)
+- [TailwindCSS]([https://styled-components.com](https://tailwindcss.com/)/)
 - [Vite](https://vitejs.dev/)
 - [Vitest](https://vitest.dev/)
 - [Yarn](https://yarnpkg.com/)
