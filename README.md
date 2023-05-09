@@ -1,8 +1,11 @@
-<h1 align="center"> Sistema Financeiro com login </h1>
+<div align="center">
+  <h1>Sistema de controle de finanças</h1>
+  <img src="logo2.svg" width="400px" />
+</div>
 
-<p align="center">
-
-</p>
+<div align="center">
+	<img src="img.png" />
+</div>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,12 +14,7 @@
   
 </p>
 
-
 <br>
-
-<p align="center">
-  <h1> img em breve </h1>
-</p>
 
 ## 🚀 Tecnologias
 
@@ -32,10 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto trata-se de uma página de formulário de cadastro e de login. Tendo como principais funcionalidades:
+Este projeto trata-se de uma página de controle financeiro. Tendo como principais funcionalidades:
 
-- [x] Cadastro de usuário
-- [x] Authenticação de usuário
 - [x] Validação de Inputs
 - [x] Listagem das transações (entradas e saídas)
 - [x] Cálculo das entradas, saídas e total
@@ -43,10 +39,11 @@ Este projeto trata-se de uma página de formulário de cadastro e de login. Tend
 - [x] Modal para cadastro de nova transação
 
 ---
+
 # 🚀 Autor
 
 - [Leonardo Carvalho](https://www.linkedin.com/in/leocarvalhodev/)
-<br />
+  <br />
 
 # 🚀 Technologies
 
@@ -62,4 +59,5 @@ Este projeto trata-se de uma página de formulário de cadastro e de login. Tend
 - [Prettier](https://prettier.io/)
 
 ---
+
 Made with 💜 &nbsp;by Leonardo Carvalho 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/leocarvalhodev/)
