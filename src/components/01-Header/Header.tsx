@@ -14,7 +14,7 @@ export function Header({ onOpenNewTransactionModal }: HeaderProps) {
           onClick={onOpenNewTransactionModal}
           className="text-base text-white bg-green py-0 px-8 rounded h-12 transition-all hover:bg-green/90"
         >
-          Nova transação2
+          Nova transação
         </button>
       </div>
     </header>
