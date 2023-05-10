@@ -1,7 +1,7 @@
 {
   "image": "https://raw.githubusercontent.com/leorrc/gengar-control/master/.github/screenshot-1.png",
   "name": "Sistema de controle de finanças",
-  "description": "Sitema de um controle financeiro, projeto feito para praticar e evoluir meu conhecimento com banco de dados, aprendi muita coisa com esse projeto, pretendo aprimorar ele com um sistema de login, onde cada usuário terá seu banco de dados.",
+  "description": "Sistema de um controle financeiro, projeto feito para praticar e evoluir meu conhecimento com banco de dados, aprendi muita coisa com esse projeto, pretendo aprimorar ele com um sistema de login, onde cada usuário terá seu banco de dados.",
   "live": "https://gengar-control.vercel.app/",
   "git": "https://github.com/Leorrc/gengar-control"
 }
