@@ -26,7 +26,7 @@ export function Summary() {
   )
 
   return (
-    <div className="grid grid-cols-3 gap-8 -mt-40">
+    <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 xl:gap-8 -mt-40">
       <div className="bg-shape2 py-6 px-8 rounded ">
         <header className="flex items-center justify-between">
           <p className="text-titles">Entradas</p>

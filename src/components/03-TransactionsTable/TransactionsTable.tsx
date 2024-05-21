@@ -13,7 +13,7 @@ export function TransactionsTable() {
   const { transactions } = useTransactions()
 
   return (
-    <div className="mt-16">
+    <div className="mt-16 overflow-x-auto">
       <table className="w-full border-separate border-spacing-x-0 border-spacing-y-2">
         <thead className="">
           <tr>
@@ -39,9 +39,8 @@ export function TransactionsTable() {
                 {transaction.title}
               </td>
               <td
-                className={`py-4 px-8 bg-shape  text-green ${
-                  transaction.type === 'deposit' ? 'type1' : ''
-                } ${transaction.type === 'withdraw' ? 'type2' : ''} `}
+                className={`py-4 px-8 bg-shape  text-green ${transaction.type === 'deposit' ? 'type1' : ''
+                  } ${transaction.type === 'withdraw' ? 'type2' : ''} `}
               >
                 {new Intl.NumberFormat('pt-BR', {
                   style: 'currency',
